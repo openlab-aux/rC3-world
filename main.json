@@ -19,7 +19,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"main.json#start"
+                 "value":"\/lobby.maps.at.rc3.world\/maps\/erfas-south.json"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -85,7 +85,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/searchwing.org"
+                 "value":"https:\/\/flipdot.openlab-augsburg.de"
                 }],
          "type":"tilelayer",
          "visible":true,
