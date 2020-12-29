@@ -19,7 +19,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"\/lobby.maps.at.rc3.world\/maps\/erfas-south.json"
+                 "value":"{<lobby>\/maps\/erfas-south.json#start_nato}"
                 }],
          "type":"tilelayer",
          "visible":true,
