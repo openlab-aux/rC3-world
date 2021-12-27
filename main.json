@@ -12,7 +12,7 @@
                 {
                  "name":"exitUrl",
                  "type":"string",
-                 "value":"world:\/\/lobby"
+                 "value":"world:\/\/lobby\/pcb.json#start_openlabaux"
                 }],
          "type":"tilelayer",
          "visible":true,
